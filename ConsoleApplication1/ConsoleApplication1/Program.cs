@@ -14,7 +14,13 @@ namespace ConsoleApplication1
 
             Console.WriteLine("Testing");
             
+          
+            Console.Write("Testing2");
+
+            Console.Write("Testing3");
+          
             Console.WriteLine("Child - base test");
+
         }
     }
 }
